@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">PizzaHot</string>
+    <string name="tvMenu">Меню</string>
+    <string name="btnShowActivitySize">розмір та добавки</string>
+
+    <string name="tvPizza_1">Панчета Горгондзола</string>
+    <string name="tvDescriptionPizza_1">соус томатний, сир моцарела, сир горгондзола, копчена грудинка, груша, рукола, мигдальні пластівці</string>
+    <string name="tvPizza_2">М\'ясна піца</string>
+    <string name="tvDescriptionPizza_2">на соусах томатному та майонезі, сир моцарела, куряче філе су-від, свинина су-від, сирокопчена шийка свинини, печериці, оливки, рукола</string>
+    <string name="tvPizza_3">Піца Філадельфія</string>
+    <string name="tvDescriptionPizza_3">на томатному соусі з моцарелою, сирокопченою ковбасою, крем-сиром та болгарським перцем</string>
+    <string name="tvCountPizza">-</string>
+    <string name="messageChooseRecipe">Оберіть рецепт піци</string>
+
+    <string name="btnMakeOrder">замовити</string>
+
+    <string name="tvSize">Розмір</string>
+    <string name="rBtnLarge">Велика - 100 см</string>
+    <string name="rBtnMedium">Середня - 60 см</string>
+    <string name="rBtnSmall">Маленька - 30 см</string>
+
+    <string name="tvToppings">Добавки</string>
+    <string name="tvMeat">М\'ЯСО</string>
+    <string name="tvMushroom">ГРИБИ</string>
+    <string name="tvCheese">СИР</string>
+    <string name="tvStartCountToppings">0</string>
+
+    <string name="tvYourOrder">Ваше замовлення</string>
+    <string name="tvPizzaRecipeLabel">Рецепт Піци</string>
+    <string name="tvPizzaRecipe">Рецепт піци</string>
+    <string name="tvPizzaSizeLabel">Розмір</string>
+    <string name="tvPizzaSize">розмір</string>
+    <string name="tvPizzaAmountLabel">Кількість</string>
+    <string name="tvPizzaAmount">кількість</string>
+    <string name="tvToppingsLabel">Добавки</string>
+    <string name="tvTopping">без добавок</string>
+    <string name="currencyType"> грн</string>
+    <string name="tvPriceLabel">Вартіть</string>
+    <string name="tvPrice">$000</string>
+    <string name="btnOrder">Замовлення</string>
+    <string name="etPhone">Введіть ваш телефон</string>
+    <string name="etPersonName">Введіть ваше ім\'я</string>
+    <string name="messageInputYourData">Введіть свої ім\'я та телевон</string>
+    <string name="messageOrder">Ваше замовлення прйнято, очікуйте на дзвінок</string>
+</resources>

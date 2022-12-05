@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">PizzaHot</string>
+    <string name="tvMenu">Menu</string>
+    <string name="btnShowActivitySize">size and toppings</string>
+
+    <string name="tvPizza_1">Pancheta Gorgondzola</string>
+    <string name="tvDescriptionPizza_1">Tomato sauce, mozzarella cheese, gorgundzole cheese, smoked brisket, pear, arugula, almond flakes</string>
+    <string name="tvPizza_2">Meat Pizza</string>
+    <string name="tvDescriptionPizza_2">On tomato and mayonnaise sauces, mozzarella cheese, chicken fillet, smoked pork neck, mushrooms, olives, arugula</string>
+    <string name="tvPizza_3">Pizza Philadelphia</string>
+    <string name="tvDescriptionPizza_3">On tomato sauce with mozzarella, orphan sausage, cream cheese and Bulgarian pepper</string>
+    <string name="tvCountPizza">-</string>
+    <string name="messageChooseRecipe">Choose a pizza recipe</string>
+
+    <string name="btnMakeOrder">make an order</string>
+
+    <string name="tvSize">Size</string>
+    <string name="rBtnLarge">Large - 100 sm</string>
+    <string name="rBtnMedium">Medium - 60 sm</string>
+    <string name="rBtnSmall">Small - 30 sm</string>
+
+    <string name="tvToppings">Toppings</string>
+    <string name="tvMeat">MEAT</string>
+    <string name="tvMushroom">MUSHROOMS</string>
+    <string name="tvCheese">CHEESE</string>
+    <string name="tvStartCountToppings">0</string>
+
+    <string name="tvYourOrder">Your order</string>
+    <string name="tvPizzaRecipeLabel">Pizza Recipe</string>
+    <string name="tvPizzaRecipe">Pizza recipe</string>
+    <string name="tvPizzaSizeLabel">Size</string>
+    <string name="tvPizzaSize">Size</string>
+    <string name="tvPizzaAmountLabel">Amount</string>
+    <string name="tvPizzaAmount">Amount</string>
+    <string name="tvToppingsLabel">Toppings</string>
+    <string name="tvTopping">no toppings</string>
+    <string name="currencyType">$</string>
+    <string name="tvPriceLabel">Price</string>
+    <string name="tvPrice">$000</string>
+    <string name="btnOrder">Order</string>
+    <string name="etPhone">Input your phone</string>
+    <string name="etPersonName">Input your Name</string>
+    <string name="messageInputYourData">Input your name and phone</string>
+    <string name="messageOrder">Your order is accepted, expect a call</string>
+</resources>
